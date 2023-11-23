@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "awsamplifyreact5b06aa32": {}
+      },
+      "api": {
+        "awsamplifyreact": {}
       }
     }
   }
