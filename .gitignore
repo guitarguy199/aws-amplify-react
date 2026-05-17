@@ -43,3 +43,6 @@ amplifytools.xcconfig
 .secret-*
 **.sample
 #amplify-do-not-edit-end
+
+# Contains AWS account ID and IAM role ARNs — never commit
+amplify/team-provider-info.json
